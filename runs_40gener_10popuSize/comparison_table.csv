@@ -1,0 +1,4 @@
+dataset,adam,de,ga,mcts
+cifar10,74.62,74.83,71.6,74.69
+fashion_mnist,92.45,92.64,91.6,92.75
+mnist,99.33,99.36,99.21,99.33

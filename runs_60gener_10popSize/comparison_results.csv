@@ -1,0 +1,13 @@
+dataset,method,best_acc,best_acc_pct,time_sec,history_csv
+cifar10,adam,0.7607,76.07,229.1,runs\cifar10_adam\history.csv
+cifar10,de,0.7627,76.27,3695.7,runs\cifar10_de\history.csv
+cifar10,ga,0.7323,73.23,2605.3,runs\cifar10_ga\history.csv
+cifar10,mcts,0.7608,76.08,2517.5,runs\cifar10_mcts\history.csv
+fashion_mnist,adam,0.9325,93.25,94.9,runs\fashion_mnist_adam\history.csv
+fashion_mnist,de,0.932,93.2,765.6,runs\fashion_mnist_de\history.csv
+fashion_mnist,ga,0.921,92.1,857.4,runs\fashion_mnist_ga\history.csv
+fashion_mnist,mcts,0.9322,93.22,695.5,runs\fashion_mnist_mcts\history.csv
+mnist,adam,0.994,99.4,79.5,runs\mnist_adam\history.csv
+mnist,de,0.9943,99.43,764.0,runs\mnist_de\history.csv
+mnist,ga,0.9923,99.23,706.9,runs\mnist_ga\history.csv
+mnist,mcts,0.9943,99.43,697.3,runs\mnist_mcts\history.csv
