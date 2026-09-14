@@ -1,4 +1,4 @@
-CNN Weight Optimization using Evolutionary Algorithms
+CNN Weight Optimization: Comparison of Adam, GA, DE, and MCTS
 
 A PyTorch framework for training Convolutional Neural Networks (CNNs) using multiple optimization strategies and benchmarking their performance across several image classification datasets.
 
