@@ -1,4 +1,4 @@
-# Comparison of Different Weight Optimization Methods
+# CNN Weight Optimization: Comparison of Adam, GA, DE, and MCTS
 
 In this project, I extended my original `ga_weight_opti_torch.py` program so that I could compare different weight optimization methods on different datasets. The original program was mainly designed for MNIST and used only the Genetic Algorithm. I kept that original implementation as it is and built a more general framework around it.
 
